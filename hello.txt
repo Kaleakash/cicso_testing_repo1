@@ -1,1 +1,2 @@
 this file created in second branch
+select * from department
